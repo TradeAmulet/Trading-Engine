@@ -23,9 +23,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{42
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Orders", "Orders", "{E144117C-5071-4429-86FB-86FCD7334BAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders.API", "Orders.API\Orders.API.csproj", "{76CF2385-946B-463B-84CA-7A1DFCB18EB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders.API", "Services\Orders\Orders.API\Orders.API.csproj", "{76CF2385-946B-463B-84CA-7A1DFCB18EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders.Domain", "Orders.Domain\Orders.Domain.csproj", "{91DDF8E4-0FC1-43B7-AD58-B499BAABC2B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders.Domain", "Services\Orders\Orders.Domain\Orders.Domain.csproj", "{91DDF8E4-0FC1-43B7-AD58-B499BAABC2B4}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{4CACB400-96A5-4341-B901-B4960C57C5B1}"
 EndProject
