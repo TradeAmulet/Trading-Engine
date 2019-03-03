@@ -1,0 +1,23 @@
+version: '3.4'
+
+services:
+  ## Database ##
+  sql.data:
+    image: microsoft/mssql-server-linux:2017-latest
+
+  redis.data:
+    image: redis
+
+  ## Service Bus ##
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+
+  ## Internal API Services ##
+  orders.api:
+    image: ${DOCKER_REGISTRY-}ordersapi
+    build:
+      context: .
+      dockerfile: Orders.API/Dockerfile
+
+  ## Public API Services ##
+  # None yet

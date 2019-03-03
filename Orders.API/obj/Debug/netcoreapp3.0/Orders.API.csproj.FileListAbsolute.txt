@@ -1,0 +1,8 @@
+C:\Users\cojwa\source\repos\Trading Engine\Orders.API\bin\Debug\netcoreapp3.0\Orders.API.exe
+C:\Users\cojwa\source\repos\Trading Engine\Orders.API\obj\Debug\netcoreapp3.0\Orders.API.csprojAssemblyReference.cache
+C:\Users\cojwa\source\repos\Trading Engine\Orders.API\obj\Debug\netcoreapp3.0\Orders.API.csproj.CoreCompileInputs.cache
+C:\Users\cojwa\source\repos\Trading Engine\Orders.API\obj\Debug\netcoreapp3.0\Orders.API.RazorAssemblyInfo.cache
+C:\Users\cojwa\source\repos\Trading Engine\Orders.API\obj\Debug\netcoreapp3.0\Orders.API.RazorAssemblyInfo.cs
+C:\Users\cojwa\source\repos\Trading Engine\Orders.API\obj\Debug\netcoreapp3.0\Orders.API.AssemblyInfoInputs.cache
+C:\Users\cojwa\source\repos\Trading Engine\Orders.API\obj\Debug\netcoreapp3.0\Orders.API.AssemblyInfo.cs
+C:\Users\cojwa\source\repos\Trading Engine\Orders.API\obj\Debug\netcoreapp3.0\Orders.API.RazorTargetAssemblyInfo.cache

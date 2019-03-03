@@ -1,0 +1,14 @@
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.csproj.CoreCompileInputs.cache
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.RazorAssemblyInfo.cache
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.RazorAssemblyInfo.cs
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.AssemblyInfoInputs.cache
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.AssemblyInfo.cs
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.RazorTargetAssemblyInfo.cache
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\TradingEngine.exe
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.csprojAssemblyReference.cache
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\System.Web.Http.WebHost.dll
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\Microsoft.Web.Infrastructure.dll
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\Swashbuckle.Core.dll
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\WebActivatorEx.dll
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.csproj.CopyComplete
