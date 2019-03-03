@@ -10,3 +10,15 @@ C:\Users\cojwa\source\repos\QuantBox\BuildingBlocks\EventBus\IntegrationEventLog
 C:\Users\cojwa\source\repos\QuantBox\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csproj.CopyComplete
 C:\Users\cojwa\source\repos\QuantBox\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.dll
 C:\Users\cojwa\source\repos\QuantBox\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.pdb
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.deps.json
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.pdb
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBus.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBus.pdb
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csprojAssemblyReference.cache
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.AssemblyInfoInputs.cache
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.AssemblyInfo.cs
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csproj.CopyComplete
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.pdb

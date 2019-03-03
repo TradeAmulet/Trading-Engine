@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Orders.Domain
 {
-    enum OrderType
+    public enum OrderType
     {
         Limit,
         Market,

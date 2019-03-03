@@ -16,3 +16,21 @@ C:\Users\cojwa\source\repos\QuantBox\BuildingBlocks\EventBus\EventBus.Tests\obj\
 C:\Users\cojwa\source\repos\QuantBox\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.csproj.CopyComplete
 C:\Users\cojwa\source\repos\QuantBox\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.dll
 C:\Users\cojwa\source\repos\QuantBox\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.pdb
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\xunit.runner.reporters.net452.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\xunit.runner.utility.net452.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\xunit.abstractions.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\EventBus.Tests.deps.json
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\EventBus.Tests.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\EventBus.Tests.pdb
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\EventBus.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\EventBusRabbitMQ.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\EventBusRabbitMQ.pdb
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netstandard2.0\EventBus.pdb
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.csprojAssemblyReference.cache
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.AssemblyInfoInputs.cache
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.AssemblyInfo.cs
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.csproj.CopyComplete
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.dll
+C:\Users\cojwa\source\repos\Trading Engine\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netstandard2.0\EventBus.Tests.pdb

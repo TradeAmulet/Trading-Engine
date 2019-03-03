@@ -19,8 +19,6 @@ services:
   rabbitmq:
     image: rabbitmq:3-management-alpine
   redis.data:
-    environment:
-      SA_PASSWORD: Pass@word
     image: redis
     ports:
     - published: 6379

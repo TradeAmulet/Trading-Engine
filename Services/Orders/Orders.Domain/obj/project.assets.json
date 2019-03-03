@@ -698,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Orders.Domain\\Orders.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Services\\Orders\\Orders.Domain\\Orders.Domain.csproj",
       "projectName": "Orders.Domain",
-      "projectPath": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Orders.Domain\\Orders.Domain.csproj",
+      "projectPath": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Services\\Orders\\Orders.Domain\\Orders.Domain.csproj",
       "packagesPath": "C:\\Users\\cojwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Orders.Domain\\obj\\",
+      "outputPath": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Services\\Orders\\Orders.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

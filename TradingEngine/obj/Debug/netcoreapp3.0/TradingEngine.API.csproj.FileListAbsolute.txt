@@ -76,3 +76,6 @@ C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0
 C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
 C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.API.dll
 C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\obj\Debug\netcoreapp3.0\TradingEngine.API.pdb
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\EventBus.dll
+C:\Users\cojwa\source\repos\Trading Engine\TradingEngine\bin\Debug\netcoreapp3.0\EventBus.pdb

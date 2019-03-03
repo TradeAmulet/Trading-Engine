@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Orders.API\\Orders.API.csproj": {}
+    "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Services\\Orders\\Orders.API\\Orders.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Orders.API\\Orders.API.csproj": {
+    "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Services\\Orders\\Orders.API\\Orders.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Orders.API\\Orders.API.csproj",
+        "projectUniqueName": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Services\\Orders\\Orders.API\\Orders.API.csproj",
         "projectName": "Orders.API",
-        "projectPath": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Orders.API\\Orders.API.csproj",
+        "projectPath": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Services\\Orders\\Orders.API\\Orders.API.csproj",
         "packagesPath": "C:\\Users\\cojwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Orders.API\\obj\\",
+        "outputPath": "C:\\Users\\cojwa\\source\\repos\\Trading Engine\\Services\\Orders\\Orders.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

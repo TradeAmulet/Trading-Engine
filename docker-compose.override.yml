@@ -12,8 +12,6 @@ services:
       - ${APPDATA}/TradingEngine/mssql:/var/opt/mssql
 
   redis.data:
-    environment:
-      - SA_PASSWORD=Pass@word
     ports:
       - "6379:6379"
     volumes:
